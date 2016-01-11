@@ -1,3 +1,6 @@
+from the youtube tutorial on how to build a MEAN stack RESTful API by Learn Coding Tutorials 
+( https://github.com/michaelcheng429/meanstacktutorial.git )
+
 Contact List App
 ================
 
