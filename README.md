@@ -1,21 +1,16 @@
-from the youtube tutorial on how to build a MEAN stack RESTful API by Learn Coding Tutorials 
-( https://github.com/michaelcheng429/meanstacktutorial.git )
+<h6>From the youtube tutorial on how to build a MEAN stack RESTful API by Learn Coding Tutorials</h6>
+  https://github.com/michaelcheng429/meanstacktutorial.git
 
-Contact List App
-================
+<h3>Contact List App</h3>
 
-Get the project
-----------------
-https://github.com/sysn00ps/contactlistapp.git
+<h5>Get the project</h5>
+  git clone git@github.com:sysn00ps/contactlistapp.git
 
-Install node modules
-----------------------
-npm install
+<h5>Install node modules</h5>
+  npm install
 
-Run mongoDB
------------------
-mongod
+<h5>Run mongoDB</h5>
+  mongod
 
-Run the app
---------------
-node server.js
+<h5>Run the app</h5>
+  node server.js
